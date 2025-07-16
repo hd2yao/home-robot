@@ -1,0 +1,625 @@
+{
+  "average_sleep_duration_hours": 1.89,
+  "average_sleep_time": "00:26",
+  "average_wake_time": "02:20",
+  "average_sleep_quality": 100.0,
+  "sleep_anomaly_ratio": 0.9,
+  "common_anomalies": [
+    {
+      "type": "short_sleep",
+      "count": 50
+    },
+    {
+      "type": "sleep_interruption",
+      "count": 35
+    },
+    {
+      "type": "high_heart_rate",
+      "count": 15
+    }
+  ],
+  "sleep_pattern": "不规律",
+  "sleep_consistency": 0,
+  "detailed_anomalies": [
+    {
+      "type": "short_sleep",
+      "date": "2023-01-02",
+      "duration_minutes": 165.0,
+      "details": "睡眠时间过短: 165.0分钟 (21:45:00 - 00:30:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-03",
+      "duration_minutes": 75.0,
+      "details": "睡眠时间过短: 75.0分钟 (01:30:00 - 02:45:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-03",
+      "duration_minutes": 45.0,
+      "details": "睡眠时间过短: 45.0分钟 (03:45:00 - 04:30:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-03",
+      "duration_minutes": 0.0,
+      "details": "睡眠时间过短: 0.0分钟 (05:15:00 - 05:15:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-03",
+      "duration_minutes": 75.0,
+      "details": "睡眠时间过短: 75.0分钟 (21:00:00 - 22:15:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-03",
+      "duration_minutes": 225.0,
+      "details": "睡眠时间过短: 225.0分钟 (23:00:00 - 02:45:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-04",
+      "duration_minutes": 90.0,
+      "details": "睡眠时间过短: 90.0分钟 (04:00:00 - 05:30:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-04",
+      "duration_minutes": 75.0,
+      "details": "睡眠时间过短: 75.0分钟 (21:09:00 - 22:24:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-04",
+      "duration_minutes": 0.0,
+      "details": "睡眠时间过短: 0.0分钟 (23:09:00 - 23:09:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-04",
+      "duration_minutes": 15.0,
+      "details": "睡眠时间过短: 15.0分钟 (23:54:00 - 00:09:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-05",
+      "duration_minutes": 240.0,
+      "details": "睡眠时间过短: 240.0分钟 (00:54:00 - 04:54:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-05",
+      "duration_minutes": 180.0,
+      "details": "睡眠时间过短: 180.0分钟 (22:00:00 - 01:00:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-06",
+      "duration_minutes": 210.0,
+      "details": "睡眠时间过短: 210.0分钟 (01:45:00 - 05:15:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-08",
+      "duration_minutes": 15.0,
+      "details": "睡眠时间过短: 15.0分钟 (21:26:00 - 21:41:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-09",
+      "duration_minutes": 75.0,
+      "details": "睡眠时间过短: 75.0分钟 (21:31:00 - 22:46:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-09",
+      "duration_minutes": 165.0,
+      "details": "睡眠时间过短: 165.0分钟 (23:31:00 - 02:16:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-10",
+      "duration_minutes": 120.0,
+      "details": "睡眠时间过短: 120.0分钟 (03:01:00 - 05:01:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-10",
+      "duration_minutes": 135.0,
+      "details": "睡眠时间过短: 135.0分钟 (21:22:00 - 23:37:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-11",
+      "duration_minutes": 45.0,
+      "details": "睡眠时间过短: 45.0分钟 (00:22:00 - 01:07:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-11",
+      "duration_minutes": 120.0,
+      "details": "睡眠时间过短: 120.0分钟 (01:52:00 - 03:52:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-11",
+      "duration_minutes": 0.0,
+      "details": "睡眠时间过短: 0.0分钟 (04:52:00 - 04:52:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-11",
+      "duration_minutes": 15.0,
+      "details": "睡眠时间过短: 15.0分钟 (21:37:00 - 21:52:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-11",
+      "duration_minutes": 90.0,
+      "details": "睡眠时间过短: 90.0分钟 (22:37:00 - 00:07:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-12",
+      "duration_minutes": 255.0,
+      "details": "睡眠时间过短: 255.0分钟 (00:52:00 - 05:07:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-12",
+      "duration_minutes": 75.0,
+      "details": "睡眠时间过短: 75.0分钟 (21:00:00 - 22:15:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-13",
+      "duration_minutes": 90.0,
+      "details": "睡眠时间过短: 90.0分钟 (21:35:00 - 23:05:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-14",
+      "duration_minutes": 135.0,
+      "details": "睡眠时间过短: 135.0分钟 (21:58:00 - 00:13:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-15",
+      "duration_minutes": 0.0,
+      "details": "睡眠时间过短: 0.0分钟 (00:58:00 - 00:58:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-15",
+      "duration_minutes": 90.0,
+      "details": "睡眠时间过短: 90.0分钟 (01:58:00 - 03:28:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-15",
+      "duration_minutes": 45.0,
+      "details": "睡眠时间过短: 45.0分钟 (04:13:00 - 04:58:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-16",
+      "duration_minutes": 0.0,
+      "details": "睡眠时间过短: 0.0分钟 (03:53:00 - 03:53:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-16",
+      "duration_minutes": 15.0,
+      "details": "睡眠时间过短: 15.0分钟 (04:38:00 - 04:53:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-16",
+      "duration_minutes": 0.0,
+      "details": "睡眠时间过短: 0.0分钟 (21:17:00 - 21:17:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-16",
+      "duration_minutes": 30.0,
+      "details": "睡眠时间过短: 30.0分钟 (22:32:00 - 23:02:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-17",
+      "duration_minutes": 15.0,
+      "details": "睡眠时间过短: 15.0分钟 (00:17:00 - 00:32:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-17",
+      "duration_minutes": 60.0,
+      "details": "睡眠时间过短: 60.0分钟 (01:17:00 - 02:17:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-17",
+      "duration_minutes": 90.0,
+      "details": "睡眠时间过短: 90.0分钟 (03:02:00 - 04:32:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-17",
+      "duration_minutes": 15.0,
+      "details": "睡眠时间过短: 15.0分钟 (05:17:00 - 05:32:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-17",
+      "duration_minutes": 120.0,
+      "details": "睡眠时间过短: 120.0分钟 (22:00:00 - 00:00:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-18",
+      "duration_minutes": 105.0,
+      "details": "睡眠时间过短: 105.0分钟 (00:45:00 - 02:30:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-18",
+      "duration_minutes": 45.0,
+      "details": "睡眠时间过短: 45.0分钟 (04:00:00 - 04:45:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-18",
+      "duration_minutes": 0.0,
+      "details": "睡眠时间过短: 0.0分钟 (05:30:00 - 05:30:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-18",
+      "duration_minutes": 150.0,
+      "details": "睡眠时间过短: 150.0分钟 (22:00:00 - 00:30:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-19",
+      "duration_minutes": 105.0,
+      "details": "睡眠时间过短: 105.0分钟 (02:30:00 - 04:15:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-19",
+      "duration_minutes": 0.0,
+      "details": "睡眠时间过短: 0.0分钟 (05:00:00 - 05:00:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-19",
+      "duration_minutes": 0.0,
+      "details": "睡眠时间过短: 0.0分钟 (21:02:00 - 21:02:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-19",
+      "duration_minutes": 45.0,
+      "details": "睡眠时间过短: 45.0分钟 (23:02:00 - 23:47:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-20",
+      "duration_minutes": 15.0,
+      "details": "睡眠时间过短: 15.0分钟 (01:32:00 - 01:47:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-20",
+      "duration_minutes": 30.0,
+      "details": "睡眠时间过短: 30.0分钟 (02:47:00 - 03:17:00)"
+    },
+    {
+      "type": "short_sleep",
+      "date": "2023-01-20",
+      "duration_minutes": 30.0,
+      "details": "睡眠时间过短: 30.0分钟 (04:32:00 - 05:02:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-03",
+      "gap_minutes": 60.0,
+      "details": "睡眠中断: 60.0分钟 (00:30:00 - 01:30:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-03",
+      "gap_minutes": 60.0,
+      "details": "睡眠中断: 60.0分钟 (02:45:00 - 03:45:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-03",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (04:30:00 - 05:15:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-03",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (22:15:00 - 23:00:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-04",
+      "gap_minutes": 75.0,
+      "details": "睡眠中断: 75.0分钟 (02:45:00 - 04:00:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-04",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (22:24:00 - 23:09:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-04",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (23:09:00 - 23:54:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-05",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (00:09:00 - 00:54:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-06",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (01:00:00 - 01:45:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-08",
+      "gap_minutes": 60.0,
+      "details": "睡眠中断: 60.0分钟 (21:41:00 - 22:41:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-09",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (22:46:00 - 23:31:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-10",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (02:16:00 - 03:01:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-11",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (01:07:00 - 01:52:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-11",
+      "gap_minutes": 60.0,
+      "details": "睡眠中断: 60.0分钟 (03:52:00 - 04:52:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-11",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (21:52:00 - 22:37:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-12",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (00:07:00 - 00:52:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-12",
+      "gap_minutes": 60.0,
+      "details": "睡眠中断: 60.0分钟 (22:15:00 - 23:15:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-13",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (23:05:00 - 23:50:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-15",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (00:13:00 - 00:58:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-15",
+      "gap_minutes": 60.0,
+      "details": "睡眠中断: 60.0分钟 (00:58:00 - 01:58:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-15",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (03:28:00 - 04:13:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-16",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (03:08:00 - 03:53:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-16",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (03:53:00 - 04:38:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-16",
+      "gap_minutes": 75.0,
+      "details": "睡眠中断: 75.0分钟 (21:17:00 - 22:32:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-17",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (00:32:00 - 01:17:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-17",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (02:17:00 - 03:02:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-17",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (04:32:00 - 05:17:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-18",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (00:00:00 - 00:45:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-18",
+      "gap_minutes": 90.0,
+      "details": "睡眠中断: 90.0分钟 (02:30:00 - 04:00:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-18",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (04:45:00 - 05:30:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-19",
+      "gap_minutes": 120.0,
+      "details": "睡眠中断: 120.0分钟 (00:30:00 - 02:30:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-19",
+      "gap_minutes": 45.0,
+      "details": "睡眠中断: 45.0分钟 (04:15:00 - 05:00:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-19",
+      "gap_minutes": 120.0,
+      "details": "睡眠中断: 120.0分钟 (21:02:00 - 23:02:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-20",
+      "gap_minutes": 60.0,
+      "details": "睡眠中断: 60.0分钟 (01:47:00 - 02:47:00)"
+    },
+    {
+      "type": "sleep_interruption",
+      "date": "2023-01-20",
+      "gap_minutes": 75.0,
+      "details": "睡眠中断: 75.0分钟 (03:17:00 - 04:32:00)"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-03",
+      "heart_rate": 96.11666666666667,
+      "details": "睡眠期间心率偏高: 96.1 bpm"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-04",
+      "heart_rate": 96.58,
+      "details": "睡眠期间心率偏高: 96.6 bpm"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-13",
+      "heart_rate": 92.17875,
+      "details": "睡眠期间心率偏高: 92.2 bpm"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-14",
+      "heart_rate": 98.125,
+      "details": "睡眠期间心率偏高: 98.1 bpm"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-16",
+      "heart_rate": 98.5,
+      "details": "睡眠期间心率偏高: 98.5 bpm"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-16",
+      "heart_rate": 98.62,
+      "details": "睡眠期间心率偏高: 98.6 bpm"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-17",
+      "heart_rate": 93.56,
+      "details": "睡眠期间心率偏高: 93.6 bpm"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-17",
+      "heart_rate": 93.14750000000001,
+      "details": "睡眠期间心率偏高: 93.1 bpm"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-17",
+      "heart_rate": 94.67714285714285,
+      "details": "睡眠期间心率偏高: 94.7 bpm"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-17",
+      "heart_rate": 91.33714285714287,
+      "details": "睡眠期间心率偏高: 91.3 bpm"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-18",
+      "heart_rate": 113.92,
+      "details": "睡眠期间心率偏高: 113.9 bpm"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-19",
+      "heart_rate": 90.00285714285714,
+      "details": "睡眠期间心率偏高: 90.0 bpm"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-19",
+      "heart_rate": 100.01,
+      "details": "睡眠期间心率偏高: 100.0 bpm"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-20",
+      "heart_rate": 99.265,
+      "details": "睡眠期间心率偏高: 99.3 bpm"
+    },
+    {
+      "type": "high_heart_rate",
+      "date": "2023-01-20",
+      "heart_rate": 94.54,
+      "details": "睡眠期间心率偏高: 94.5 bpm"
+    }
+  ]
+}
